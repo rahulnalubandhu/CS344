@@ -1,0 +1,1 @@
+To run this program, extract all files in the same directory, then type in "make" to create the executable. Once compiled, run via ""./movies_by_year".
